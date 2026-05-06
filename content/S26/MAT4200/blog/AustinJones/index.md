@@ -27,7 +27,7 @@ We are able to take a series of charts: $U_1, U_2, ... , U_n$ which will map the
 An atlas of **M** is the collections of charts such that the union of all charts is equal to **M**. The *maximal atlas* of **M** is the collection of every possible chart. It is a unique, maximal collection of consistent charts that defines a smooth structure on a topological space.
 
 <p align ="center">
- <img width="600" height="340" alt="image_2026-05-03_141836194" src="https://gist.github.com/user-attachments/assets/ce51a456-9e13-4fcb-8c8c-1e66665cfcd9" />
+ <img src="MAT 4200 Blog Post Atlases Covering Manifolds.png" />
 </p>
 
 **Figure 1:** A 2-dimensional manifold M covered by multiple open charts. The left shows a collection of 4 charts building one atlas, whilst the right shows a collection of 2 charts building another atlas. Each of these atlases are different, and will affect the properties of the maps. Note that there are intersecting regions between charts. Only points from these regions are defined for the composition $\phi_1 \circ \phi_2^{-1}$: $\mathbb{R}^n \rightarrow \mathbb{R}^n$.
@@ -68,7 +68,7 @@ Einstein postulated that we are actually unable to feel a force from gravity. Th
 "upward" at 9.8 $\frac{m}{s^2}$ versus free-falling on Earth. The observer would not be able to tell a difference between the two. This yields the idea of the equivalence principle.
 
 <p align = "center">
- <img width="600" height="450" alt="Blog Post Equivalence Principle (1)" src="https://gist.github.com/user-attachments/assets/6e71bbe1-7c92-4773-8f9a-a7803966e879" />
+ <img src="Blog Post Equivalence Principle (1).png" />
 </p>
 
 **Figure 2:** A simple diagram of the equivalence principle. The person falling towards the planet (left) will see the planet approaching them with the same acceleration as the person in the rocket accelerating upward (right) will see the bottom of their rocket accelerate towards them. *Image not drawn to scale.*
@@ -103,7 +103,7 @@ In flat space, it is very natural for us to compare vectors at different points 
 
 Geodesics are the curved space generalization of the idea of a straight line in Euclidean space. More specifically, a geodesic path is the path taken in which the tangent vectors measured at the initial point will change the least. The computation of geodesics allow us to find the shortest path along a manifold, which is particularly important, as it tells us the trajectories of free-falling objects under the influence of gravity.
 
-https://gist.github.com/user-attachments/assets/f0e4fade-5b96-4ec4-8fcd-475c99228c60
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=uHkPHyCi6hU" frameborder="0" allowfullscreen></iframe>
  
 **Figure 3:** A visualization of the Schwarzschild surface. This video shows a plot of the 2-dimensional spatial geometry surrounding a black hole at the origin in 3-dimensional Euclidean space. The mass of the black hole at the center increases as a funciton of time in this case. Note that the 2-dimensional space is flat (zero curvature) at the start when the black hole's mass is zero but begins curving more as the mass increases. One can visualize an object traversing the space around the black hole following a geodesic path when under only gravitational influence by thinking of a small marble spiraling down a funnel.
 
